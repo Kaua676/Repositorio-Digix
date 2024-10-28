@@ -27,10 +27,13 @@
 - Esqueleto inicial:
 using System;
 
-class Program
+namespace Aula_Switch
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
