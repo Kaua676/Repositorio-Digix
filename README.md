@@ -24,3 +24,16 @@
 - dotnet new console -n "nome"
 - cw = console writeline
 - Para testar o codigo = dotnet run "Nome do arquivo.cs ou .csproj"
+- Esqueleto inicial:
+using System;
+
+namespace Aula_Switch
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
