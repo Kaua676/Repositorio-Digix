@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_2", "Aula_2\Aula_2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_3", "Aula_3\Aula_3.csproj", "{829043AE-E8A7-4A40-A9BB-034F06F243B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_4", "Aula_4\Aula_4.csproj", "{81752d12-a684-48fb-a6bb-49edf94b97e3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
