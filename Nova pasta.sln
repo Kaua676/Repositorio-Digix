@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_2", "Aula_2\Aula_2.csproj", "{557FA1B3-67AB-4D70-8FE5-5A2A1DBDA34B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_25.10.2024 Operadores Aritmético", "Aula_25.10.2024 Operadores Aritmético\Aula_2.csproj", "{5d71d654-454d-480b-a088-642e66c775e1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_3", "Aula_3\Aula_3.csproj", "{829043AE-E8A7-4A40-A9BB-034F06F243B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_28.10.2024 Estrutura condicional", "Aula_28.10.2024 Estrutura condicional\Aula_3.csproj", "{205489c4-a12e-4ec8-9b16-b3e4f2dfab9d}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_4", "Aula_4\Aula_4.csproj", "{81752d12-a684-48fb-a6bb-49edf94b97e3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_28.10.2024 Laços de repetição", "Aula_28.10.2024 Laços de repetição\Aula_4.csproj", "{d10abc55-01c3-46b1-a61d-024707d39b2f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_30.10.2024 Vetores", "Aula_30.10.2024 Vetores\Aula_4_30.10.2024.csproj", "{2ab6989c-de76-480a-8670-a48c9fd27190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_01.11.2024 Matrizes", "Aula_01.11.2024 Matrizes\Aula 01.11.2024 Matrizes.csproj", "{0d7f61e8-d24a-463c-8a99-4ca7d7d664da}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_04.11.2024", "Aula_04.11.2024\Aula_04.11.2024.csproj", "{074d6f07-1e81-44c1-be2e-58317bb6ecca}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
