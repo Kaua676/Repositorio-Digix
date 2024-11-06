@@ -13,8 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_30.10.2024 Vetores", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_01.11.2024 Matrizes", "Aula_01.11.2024 Matrizes\Aula 01.11.2024 Matrizes.csproj", "{0d7f61e8-d24a-463c-8a99-4ca7d7d664da}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_04.11.2024", "Aula_04.11.2024\Aula_04.11.2024.csproj", "{074d6f07-1e81-44c1-be2e-58317bb6ecca}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_04.11.2024 Matriz Tridimensional", "Aula_04.11.2024\Aula_04.11.2024.csproj", "{074d6f07-1e81-44c1-be2e-58317bb6ecca}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_06.11.2024", "Aula_06.11.2024.csproj", "{59df3a0c-f252-42f1-9cdf-89e7ce53be29}"
+EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
