@@ -6,6 +6,7 @@
     <RootNamespace>Aula_04._11._2024</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
   </PropertyGroup>
 
 </Project>
