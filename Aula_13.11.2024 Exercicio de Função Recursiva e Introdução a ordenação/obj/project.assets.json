@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_13.11.2024\\Aula_13.11.2024.csproj",
+      "projectUniqueName": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_13.11.2024 Exercicio de Função Recursiva e Introdução a ordenação\\Aula_13.11.2024.csproj",
       "projectName": "Aula_13.11.2024",
-      "projectPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_13.11.2024\\Aula_13.11.2024.csproj",
+      "projectPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_13.11.2024 Exercicio de Função Recursiva e Introdução a ordenação\\Aula_13.11.2024.csproj",
       "packagesPath": "C:\\Users\\kauavicente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_13.11.2024\\obj\\",
+      "outputPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_13.11.2024 Exercicio de Função Recursiva e Introdução a ordenação\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kauavicente\\AppData\\Roaming\\NuGet\\NuGet.Config",

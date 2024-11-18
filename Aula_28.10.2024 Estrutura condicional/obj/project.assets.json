@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Aula_3\\Aula_3.csproj",
+      "projectUniqueName": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_28.10.2024 Estrutura condicional\\Aula_3.csproj",
       "projectName": "Aula_3",
-      "projectPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Aula_3\\Aula_3.csproj",
+      "projectPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_28.10.2024 Estrutura condicional\\Aula_3.csproj",
       "packagesPath": "C:\\Users\\kauavicente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Aula_3\\obj\\",
+      "outputPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\Aula_28.10.2024 Estrutura condicional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kauavicente\\AppData\\Roaming\\NuGet\\NuGet.Config",
