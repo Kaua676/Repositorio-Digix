@@ -3,25 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula_06._12._2024
+namespace Aula_06_12_2024
 {
     public record class Cobra : Animal
     {
-        private boolean Venenosa
+        public bool Venenosa = true;
 
-        public Cobra(boolean vivo, boolean venenosa) : base(vivo)
+        public Cobra(bool venenosa, bool Vivo) : base(Vivo)
         {
             this.Venenosa = venenosa;
         }
-
         public void Alimento(string a)
         {
-            System.Console.WriteLine($"Se alimenta de {a}\n");
+            System.Console.WriteLine($"A cobra se alimenta de {a}");
         }
-
-        public void setVenenosa(boolean v)
+        public bool SetVenenosa(bool v)
         {
-            this.Venenosa = v
+            return v;
         }
     }
 }

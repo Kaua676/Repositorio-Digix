@@ -50,8 +50,23 @@ namespace Aula_06_12_2024
             // telefonista.atenderTelefone();
             // telefonista.Imprimir();
 
-            Cobra cobra = new Cobra(true, true)
-            System.Console.WriteLine(cobra);
+            Cobra cobra = new Cobra(true, false);
+            cobra.Alimento("Rato");
+            cobra.SetVenenosa(true);
+            System.Console.WriteLine("-------------------");
+
+            Javali javali = new Javali(true, true);
+            javali.SetSelvagem(true);
+            if (javali.SetSelvagem(true))
+            {
+                System.Console.WriteLine("O javali é selvagem");
+            }
+            else
+            {
+                System.Console.WriteLine("O javali não é selvagem");
+            }
+            System.Console.WriteLine($"A velocidade maximo do javali é {javali.GetVelocidadeMaxima()} km/h");
+
         }
     }
 }

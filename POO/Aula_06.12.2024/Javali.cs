@@ -3,25 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula_06._12._2024
+namespace Aula_06_12_2024
 {
     public record class Javali : Animal
     {
-        private boolean Selvagem
+        public bool Selvagem;
 
-        public Javali(boolean vivo, boolean selvagem) : base(vivo)
+        public Javali(bool selvagem, bool Vivo) : base(Vivo)
         {
             this.Selvagem = selvagem;
         }
 
-        public int getVelocidadeMaxima()
+        public int GetVelocidadeMaxima()
         {
             return 40;
-        } 
-
-        public setSelvagem(boolean s)
+        }
+        public bool SetSelvagem(bool s)
         {
-            this.Selvagem = s
+            return s;
         }
     }
 }

@@ -3,20 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula_06._12._2024
+namespace Aula_06_12_2024
 {
     public record class Animal
     {
-        public boolean Vivo
+        public bool Vivo = true;
 
-        public Animal(boolean vivo)
+        // Metodo Construtor
+        public Animal(bool vivo)
         {
             this.Vivo = vivo;
-        }
-
-        public virtual void Imprimir()
-        {
-            System.Console.WriteLine("Animal: " + Vivo);
         }
     }
 
