@@ -25,15 +25,15 @@ namespace Padaria
             System.Console.WriteLine($"Preço: {this.Preco:C}"); //Exibe o preço como moeda brasileira
         }
 
-        static void Main(string[] args)
-        {
-            // Produto produto = new Produto("Notebook", 2999.99);
-            // produto.ExibirInformacoes();
+        // static void Main(string[] args)
+        // {
+        //     // Produto produto = new Produto("Notebook", 2999.99);
+        //     // produto.ExibirInformacoes();
 
-            Produto produto2 = new Produto();
-            produto2.Nome = "Mouse";
-            produto2.Preco = 99.99;
-            produto2.ExibirInformacoes();
-        }
+        //     Produto produto2 = new Produto();
+        //     produto2.Nome = "Mouse";
+        //     produto2.Preco = 99.99;
+        //     produto2.ExibirInformacoes();
+        // }
     }
 }

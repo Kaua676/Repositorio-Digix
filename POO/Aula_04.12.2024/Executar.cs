@@ -7,12 +7,12 @@ namespace IntroduçãoPOO
     {
         static void Main(string[] args)
         {
-            Cachorro cachorro = new Cachorro();
-            cachorro.Nome = "Billy";
-            cachorro.Raca = "Terrier brasileiro";
-            cachorro.Idade = 7;
+            // Cachorro cachorro = new Cachorro();
+            // cachorro.Nome = "Billy";
+            // cachorro.Raca = "Terrier brasileiro";
+            // cachorro.Idade = 7;
 
-            cachorro.escrevaSaida();
+            // cachorro.escrevaSaida();
         }
     }
 }
