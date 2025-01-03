@@ -28,7 +28,6 @@ namespace Aula_02_01_2025.Exercicio_2
                                $"Número de andares: {NumAndares}.\n" +
                                $"Número de apartamentos por andar: {ApPorAndar}.\n";
 
-            // Verificando se Unidades foi inicializada corretamente
             if (Unidades != null && Unidades.Count > 0)
             {
                 for (int i = 0; i < Unidades.Count; i++)

@@ -57,7 +57,6 @@ namespace Aula_02_01_2025
 
             Utilitario utilitario = new Utilitario("UTIL123", "F-250", 100, 1500);
             Console.WriteLine($"Camionete: {utilitario.Modelo}, Placa: {utilitario.Placa}, Diária: R${utilitario.CalcularDiaria():F2}");
-
         }
     }
 }
