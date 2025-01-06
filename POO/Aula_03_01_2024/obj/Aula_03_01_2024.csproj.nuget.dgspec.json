@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\POO\\Aula_03_01_2024\\Aula_03_01_2024.csproj": {}
+    "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\poo\\Aula_03_01_2024\\Aula_03_01_2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\POO\\Aula_03_01_2024\\Aula_03_01_2024.csproj": {
+    "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\poo\\Aula_03_01_2024\\Aula_03_01_2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\POO\\Aula_03_01_2024\\Aula_03_01_2024.csproj",
+        "projectUniqueName": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\poo\\Aula_03_01_2024\\Aula_03_01_2024.csproj",
         "projectName": "Aula_03_01_2024",
-        "projectPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\POO\\Aula_03_01_2024\\Aula_03_01_2024.csproj",
+        "projectPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\poo\\Aula_03_01_2024\\Aula_03_01_2024.csproj",
         "packagesPath": "C:\\Users\\kauavicente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\POO\\Aula_03_01_2024\\obj\\",
+        "outputPath": "C:\\Users\\kauavicente\\Documents\\Aulas C#\\Repositorio-Digix\\poo\\Aula_03_01_2024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauavicente\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,10 +9,10 @@ namespace Aula_03_01_2024
     {
         public string Rua { get; set; }
         public string Cidade { get; set; }
-        public string Estado { get; set; }
+        public Estado Estado { get; set; }
         public string CEP { get; set; }
 
-        public Endereco(string rua, string cidade, string estado, string cep)
+        public Endereco(string rua, string cidade, Estado estado, string cep)
         {
             Rua = rua;
             Cidade = cidade;

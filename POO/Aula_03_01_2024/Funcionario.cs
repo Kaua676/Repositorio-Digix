@@ -10,7 +10,7 @@ namespace Aula_03_01_2024
         public string Nome { get; set; }
         public Endereco Endereco { get; set; }
         public string Telefone { get; set; }
-        public string CPF { get; set; }
+        public int CPF { get; set; }
         public double SalarioBase { get; set; }
 
         //Aqui a composição vai acontecer lá na classe Executar

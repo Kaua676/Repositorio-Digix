@@ -9,7 +9,7 @@ namespace Aula_03_01_2024
     {
         public string Nome { get; set; }
         public Endereco Endereco { get; set; }
-        public string CNPJ { get; set; }
+        public int CNPJ { get; set; }
         public bool Recorrente { get; set; }
         public double Desconto { get; set; }
 

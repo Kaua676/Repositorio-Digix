@@ -19,7 +19,7 @@ namespace Aula_03_01_2024
             Endereco = new Endereco();
         }
 
-        public Cliente(string nome, string rua, string cidade, string estado, string cep, string telefone, string cpf)
+        public Cliente(string nome, string rua, string cidade, Estado estado, string cep, string telefone, string cpf)
         {
             Nome = nome;
             Endereco = new Endereco(rua, cidade, estado, cep);
