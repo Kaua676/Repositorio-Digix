@@ -15,7 +15,7 @@ namespace Aula_09_01_2025
 
         public override string ToString()
         {
-            return $"ID: {IdTransacao}\nData: {Data}\nTipo: {Tipo}\nValor: {Valor}\nSaldo Posterior: {SaldoPosterior}";
+            return $"\nID: {IdTransacao}\nData: {Data}\nTipo: {Tipo}\nValor: {Valor}\nSaldo Posterior: {SaldoPosterior}";
         }
     }
 }

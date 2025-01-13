@@ -58,7 +58,6 @@ namespace Aula_09_01_2025
 
             static void CriarConta(Banco banco)
             {
-                Console.WriteLine("\n=== Criar Conta ===");
                 System.Console.WriteLine("===========================");
                 System.Console.WriteLine("=       Criar Conta       =");
                 System.Console.WriteLine("===========================");
@@ -173,7 +172,9 @@ namespace Aula_09_01_2025
 
             static void RealizarDeposito(Cliente cliente)
             {
-                Console.WriteLine("\n=== Realizar Depósito ===");
+                System.Console.WriteLine("===========================");
+                System.Console.WriteLine("=    Realizar Depósito    =");
+                System.Console.WriteLine("===========================");
                 Console.Write("Número da Conta: ");
                 int numeroConta = int.Parse(Console.ReadLine());
                 Console.Write("Valor do Depósito: ");
@@ -188,7 +189,9 @@ namespace Aula_09_01_2025
 
             static void RealizarSaque(Cliente cliente)
             {
-                Console.WriteLine("\n=== Realizar Saque ===");
+                System.Console.WriteLine("===========================");
+                System.Console.WriteLine("=      Realizar Saque     =");
+                System.Console.WriteLine("===========================");
                 Console.Write("Número da Conta: ");
                 int numeroConta = int.Parse(Console.ReadLine());
                 Console.Write("Valor do Saque: ");
@@ -203,7 +206,9 @@ namespace Aula_09_01_2025
 
             static void ExibirSaldo(Cliente cliente)
             {
-                Console.WriteLine("\n=== Exibir Saldo ===");
+                System.Console.WriteLine("===========================");
+                System.Console.WriteLine("=       Exibir Saldo      =");
+                System.Console.WriteLine("===========================");
                 Console.Write("Número da Conta: ");
                 int numeroConta = int.Parse(Console.ReadLine());
 
@@ -233,6 +238,16 @@ namespace Aula_09_01_2025
                     foreach (var transacao in historico)
                     {
                         Console.WriteLine(transacao);
+                    }
+                    // Cria um txt com o histórico de transações
+                    string caminhoArquivo = @"C:\Users\kauavicente\Desktop\aa.txt";
+                    using (StreamWriter writer = new StreamWriter(caminhoArquivo))
+                    {
+                        foreach (var transacao in historico)
+                        {
+                            writer.WriteLine(transacao.ToString());
+                        }
+                        Console.WriteLine($"Histórico de transações salvo em: {caminhoArquivo}");
                     }
                 }
             }
